@@ -4,7 +4,7 @@
 
 **Background**
 
-In the new role as the data visualization expert for a major metro paper, I was tasked with analyzing the current trends shaping people's lives, as well as creating charts, graphs and interactives to help readers understand your findings.
+In the new role as the data visualization expert for a major metro paper, I was tasked with analyzing the current trends shaping people's lives, as well as creating charts, graphs and interactions to help readers understand my findings.
 
 Through this project, I have created an impressive visualization effect that will visually provide the 
 correlation between various factors so that additional investments will be made to further explore the
